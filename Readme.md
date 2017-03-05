@@ -9,6 +9,7 @@ common examples
 ```cs
 
 Opener.Net.Opener.Open("http://google.com"); // launch a browser window
+
 Opener.Net.Opener.Open("npm install", processStartInfo: new ProcessStartInfo(){ WorkingDirectory = "c:/projects/npmrest"}); //npm install in a specific directory
 
 ```

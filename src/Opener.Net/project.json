@@ -3,6 +3,13 @@
   "buildOptions": {
     "debugType": "portable"
   },
+  "description": "This provides a cross platform way to launch processes on mac/linux/or windows",
+  "authors": [ "Tommy Parnell" ],
+  "packOptions": {
+    "tags": [ "dotnet core", "xplat" ],
+    "projectUrl": "https://github.com/TerribleDev/Opener.Net",
+    "licenseUrl": "https://opensource.org/licenses/MIT"
+  },
   "dependencies": {},
   "frameworks": {
     "netstandard1.4": {
