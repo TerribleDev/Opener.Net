@@ -6,7 +6,7 @@
   "description": "This provides a cross platform way to launch processes on mac/linux/or windows",
   "authors": [ "Tommy Parnell" ],
   "packOptions": {
-    "tags": [ "dotnet core", "xplat" ],
+    "tags": [ "dotnet core", "xplat", "launch process" ],
     "projectUrl": "https://github.com/TerribleDev/Opener.Net",
     "licenseUrl": "https://opensource.org/licenses/MIT"
   },

@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 
 namespace Opener.Net
 {
-    public class Opener
+    public static class Opener
     {
         /// <summary>
         /// Launch a command on macOS, Linux, or windows
