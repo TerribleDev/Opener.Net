@@ -17,5 +17,5 @@ Opener.Net.Opener.Open("npm install", processStartInfo: new ProcessStartInfo(){ 
 ## Why?
 
 
-Because Windows has start, Macs have open, and *nix has xdg-open. At least according to some guy on StackOverflow. And I like things that work on all three. Like Node.js. And Opener.
+Because Windows has start, Macs have open, and *nix has xdg-open. At least according to [some guy on StackOverflow](http://stackoverflow.com/q/1480971/3191). And I like things that work on all three. Like Node.js. And Opener.
 
